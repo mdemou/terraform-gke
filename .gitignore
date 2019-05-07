@@ -7,3 +7,17 @@
 
 # .tfvars files
 *.tfvars
+
+# common
+.DS_Store
+*.zip
+*.tar
+*.tar.gz
+disabled
+bin
+tmp
+*.bak
+*.swp
+
+# Custom files
+gcloud-acc-service.json
