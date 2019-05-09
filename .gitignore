@@ -20,4 +20,4 @@ tmp
 *.swp
 
 # Custom files
-gcloud-acc-service.json
+gcloud-service-account.json
